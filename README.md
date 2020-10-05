@@ -1,2 +1,2 @@
-# hacktober
+# hacktoberfest
 hacktoberfest
